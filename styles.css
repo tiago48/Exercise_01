@@ -1,0 +1,32 @@
+div {
+	background: rgb(255,255,0);
+	padding: 0.5em;
+	border: 1px solid #0000FF;
+	font-family: Garamond;
+	font-size: 30pt;
+	font-weight: bold;
+	color: #0000FF;   // Blue
+}
+
+.my1stNewStyle {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 50pt;
+	font-weight: bold;
+	color: #0000FF;   // Blue
+}
+ 
+.my2ndNewStyle {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 20pt;
+	font-weight: bold;
+	color: #808000;   // Olive
+}
+ 
+.my3rdNewStyle {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 14pt;
+	color: #FF0000;   // Red
+}
+
+body { margin-left: 10%; margin-right: 15%; }
